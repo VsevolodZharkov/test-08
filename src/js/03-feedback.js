@@ -1,12 +1,6 @@
 // import throttle from "lodash.throttle";
 
-
-const button = document.querySelector('.submit')
-console.log(button);
-button.addEventListener('click', () => {
-	console.log(1);
-})
-
+console.log(1);
 
 
 
